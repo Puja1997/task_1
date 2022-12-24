@@ -10,7 +10,5 @@ switch(day){
     break;
      case "Sat":console.log("Saturday");
     break;
-     case "Sun":console.log("Sunday");
-    break;
   default: console.log("wrong input");
 }
